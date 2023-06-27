@@ -8,7 +8,7 @@ and [iPLAN](https://github.com/wuxiyang1996/iPLAN).
 
 # Installation
 ```angular2html
-pip install HighwayEnv-iPLAN
+pip install Heterogeneous_Highway_Env
 ```
 
 # Major Changes
@@ -26,7 +26,7 @@ Behavior-driven vehicles in the environment include: Normal (Blue), Aggressive (
 Vehicles terminate (Red) when colliding with other vehicles.
 
 <p align="center">
-    <img src="Heterogeneous_Highway_Env/animation/iPLAN_Hetero_H_5_90.0_21.81.gif"><br/>
+    <img src="animation/iPLAN_Hetero_H_5_90.0_21.81.gif"><br/>
     <em> iPLAN in chaotic (hard) scenario of Heterogeneous Highway 
     (Num of agents succeed: 5, Avg. survival time: 90, Avg. speed: 21.81).</em>
 </p>
