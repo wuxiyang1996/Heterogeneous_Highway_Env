@@ -1,10 +1,10 @@
 # Heterogeneous Highway-env for iPLAN
-Our forked version of [highway-env](https://github.com/Farama-Foundation/HighwayEnv) used in our paper:
+Our forked version of [**highway-env**](https://github.com/Farama-Foundation/HighwayEnv) used in our paper:
 
-[iPLAN: Intent-Aware Planning in Heterogeneous Traffic via Distributed Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2306.06236)
+[**iPLAN: Intent-Aware Planning in Heterogeneous Traffic via Distributed Multi-Agent Reinforcement Learning**](https://arxiv.org/abs/2306.06236)
 
-More details could be found in the main page of [highway-env](https://github.com/Farama-Foundation/HighwayEnv)
-and [iPLAN](https://github.com/wuxiyang1996/iPLAN).
+More details could be found in the main page of [**highway-env**](https://github.com/Farama-Foundation/HighwayEnv)
+and [**iPLAN**](https://github.com/wuxiyang1996/iPLAN).
 
 # Installation
 ```angular2html
